@@ -1,0 +1,65 @@
+/**************************************FONT SIZES************************/
+h1{color: goldenrod;}
+body{
+	font-family: Times new roman;
+	font-style: italic;
+	margin: 0;
+
+}
+
+a{
+	color: #cc00cc;
+	text-decoration: none;
+}
+
+/**************************************HEADER****************************/
+
+#header{ background-color: #ffff00;} 
+h2{text-align: center;
+margin: 0;
+}	
+
+ul.nav li{
+	text-transform: uppercase;
+	list-style-type: none;
+
+}
+.nav li {
+	display: inline-block;
+	padding: 30px 15px 15px 0;
+
+}
+
+.nav{
+
+	text-align: center;
+}
+
+.nav li:hover{
+
+	background-color: #3399ff;
+}
+
+
+h1{
+	font-size: 36px;
+	background-color: #ffccff;
+	text-align: center;
+    border: 1px  #000000 solid;
+    padding-top: 15px;
+margin: 0;
+text-align: center;
+}
+
+
+/**************************************CONTENT****************************/
+ 
+#content{
+width: 400px;
+margin: 30px auto;
+}
+
+#content h4{
+border-bottom: #000000 solid 1px;
+}
+
